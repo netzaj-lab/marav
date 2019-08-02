@@ -1,0 +1,40 @@
+{
+	"Settings":
+	{
+		"Errors": true,
+		"TimeZone": "America\/Santiago"
+	},
+	"Paths":
+	{
+		"DocumentRoot": "DOCUMENT_ROOT",
+		"Domain": "HTTP_HOST",
+		"Framework": 
+		{
+			"Root": "Marav\/",
+			"Folders": 
+			{
+				"Core": 
+				{
+					"Root": "Core\/",
+					"Folders": [ "Controllers\/", "Models\/", "Views\/" ]
+				},
+				"Libraries": 
+				{
+					"Root": "Libraries\/",
+					"Folders": [ ]
+				},
+				"Resources": 
+				{
+					"Root": "Resources\/",
+					"Folders": [ "Classes\/", "Layout\/", "Logs\/" ]
+				},
+				"Settings": 
+				{
+					"Root": "Settings\/",
+					"Folders": [ ]
+				}
+			}
+		},
+		"Public": ""
+	}
+}
